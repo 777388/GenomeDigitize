@@ -1,0 +1,2 @@
+Digitize.py python3 Temporal License
+<map object at 0x7d7bfbd5df70>
